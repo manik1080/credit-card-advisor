@@ -2,8 +2,9 @@
 
 A web-based, agent-powered credit card recommendation system that uses LLMs and tool integrations to guide users through a personalized Q&A journey and suggest the best-fit credit cards based on their preferences. 
 
-## Demo
+## Demo Video
 
+https://github.com/user-attachments/assets/5f1c3b9c-11cb-4f06-b13a-697b17f790e7
 [Project Demo Video](https://www.youtube.com/watch?v=KY58OzIMGpg)
 
 ## Features
